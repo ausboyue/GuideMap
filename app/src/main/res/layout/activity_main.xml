@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.icheny.guide_map.MapContainer xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/mc_map"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:marker_anim_duration="1200"
+    app:marker_height="94px"
+    app:marker_width="66px" />
