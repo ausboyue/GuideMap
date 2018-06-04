@@ -93,4 +93,4 @@ public class MainActivity extends AppCompatActivity implements MapContainer.OnMa
 ```
 示例运行效果：
 
-![GuideMap](http://img.blog.csdn.net/20171023130449400?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvYXVzYm95dWU=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+![GuideMap](http://media.icheny.cn/image/20171023130449400.gif)
