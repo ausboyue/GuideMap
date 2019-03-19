@@ -10,6 +10,7 @@ import java.util.ArrayList;
 
 /**
  * 使用Demo
+ *
  * @author www.icheny.cn
  * @date 2017/10/18
  */
@@ -22,7 +23,7 @@ public class MainActivity extends AppCompatActivity implements MapContainer.OnMa
         super.onCreate(savedInstanceState);
         setNavigationBarVisibility(false);
         setContentView(R.layout.activity_main);
-        mMapContainer = (MapContainer) findViewById(R.id.mc_map);
+        mMapContainer = findViewById(R.id.mc_map);
         //这里用女神赵丽颖的照片作地图~~
         mMapContainer.getMapView().setImageResource(R.drawable.zhaoliyin);
         mMarkers = new ArrayList<>();
